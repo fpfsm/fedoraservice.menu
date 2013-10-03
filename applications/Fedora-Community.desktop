@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Fedora Community
+GenericName=Fedora Community
+Exec=xdg-open 'http://www.fedoracommunity.org/'
 StartupNotify=true
 Terminal=false
 Type=Application

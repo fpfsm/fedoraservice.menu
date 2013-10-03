@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Magazines
+GenericName=Fedora Magazines
+Exec=xdg-open 'http://fedoramagazine.org/'
 StartupNotify=true
 Terminal=false
 Type=Application

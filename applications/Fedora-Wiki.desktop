@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=FedoraProject Wiki
+GenericName=Fedora Wiki Page
+Exec=xdg-open 'https://fedoraproject.org/wiki/Fedora_Project_Wiki'
 StartupNotify=true
 Terminal=false
 Type=Application

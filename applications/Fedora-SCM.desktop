@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=SCM
+GenericName=Fedora SCM
+Exec=xdg-open 'http://pkgs.fedoraproject.org/cgit'
 StartupNotify=true
 Terminal=false
 Type=Application

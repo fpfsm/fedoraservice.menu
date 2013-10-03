@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Collectd
+GenericName=Fedora Collectd
+Exec=xdg-open 'http://admin.fedoraproject.org/collectd'
 StartupNotify=true
 Terminal=false
 Type=Application

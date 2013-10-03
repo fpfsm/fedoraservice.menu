@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Fedora Docs
+GenericName=Fedora Documents
+Exec=xdg-open 'http://docs.fedoraproject.org/'
 StartupNotify=true
 Terminal=false
 Type=Application

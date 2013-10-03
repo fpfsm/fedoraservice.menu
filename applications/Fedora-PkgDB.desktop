@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=PkgDB
+GenericName=Fedora PkgDB
+Exec=xdg-open 'http://admin.fedoraproject.org/pkgdb'
 StartupNotify=true
 Terminal=false
 Type=Application

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Fedora Hosted
+GenericName=Fedora Hosted
+Exec=xdg-open 'http://fedorahosted.org/'
 StartupNotify=true
 Terminal=false
 Type=Application

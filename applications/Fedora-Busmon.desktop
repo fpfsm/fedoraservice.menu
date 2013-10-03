@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=Tagger
-GenericName=Fedora Tagger
-Exec=xdg-open 'http://apps.fedoraproject.org/tagger'
+Name=Fedora Busmon
+GenericName=Fedora Busmon
+Exec=xdg-open 'https://apps.fedoraproject.org/busmon/'
 StartupNotify=true
 Terminal=false
 Type=Application

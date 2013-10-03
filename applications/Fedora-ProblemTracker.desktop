@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Retrace FedoraProject
+GenericName=Fedora Problem Tracker
+Exec=xdg-open 'https://retrace.fedoraproject.org/'
 StartupNotify=true
 Terminal=false
 Type=Application

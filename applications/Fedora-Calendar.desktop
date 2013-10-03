@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Fedora Calendar
+GenericName=Fedora Calendar
+Exec=xdg-open 'http://apps.fedoraproject.org/calendar'
 StartupNotify=true
 Terminal=false
 Type=Application

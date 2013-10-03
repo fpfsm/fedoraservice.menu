@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
-Name=
-GenericName=
-Exec=xdg-open ''
+Name=Fedora Packages
+GenericName=Fedora Packages Database
+Exec=xdg-open 'http://apps.fedoraproject.org/packages'
 StartupNotify=true
 Terminal=false
 Type=Application
