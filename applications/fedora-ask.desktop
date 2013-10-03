@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Ask-Fedora-Website
+GenericName=Ask-Fedora-Website
+Exec=xdg-open www.askfedoraproject.org
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=fedora-logo
+Categories=Fedora;

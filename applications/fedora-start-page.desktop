@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Fedora Project Start Page
+GenericName=Fedora-Project-Start-Page
+Exec=firefox www.fedoraproject.org
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Fedora;
+Icon=fedora-logo
