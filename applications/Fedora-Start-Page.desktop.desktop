@@ -8,3 +8,6 @@ Terminal=false
 Type=Application
 Icon=fedora-logo
 Categories=Fedora;
+
+[Desktop Entry]
+Name[en_US]=Fedora-Start-Page.desktop
