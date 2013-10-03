@@ -1,0 +1,21 @@
+ <!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+  "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+
+<Menu>
+    <Name>Applications</Name>
+
+    <Menu>
+        <Name>Fedora</Name>
+        <Menu>
+            <Name>Fedora</Name>
+            <Directory>Fedora.directory</Directory>
+	    <Directory>Fedoraservices.directory</Directory>
+		<Include>
+                <And>
+                <Category>Fedora</Category>
+		</And>
+            </Include>
+
+</Menu>
+</Menu>
+</Menu>
