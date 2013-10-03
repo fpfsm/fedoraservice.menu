@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Ask Fedora Website
+GenericName=Ask Fedora Website
+Exec=xdg-open 'http://www.askfedoraproject.org'
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=fedora-logo
+Categories=Fedora;
