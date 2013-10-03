@@ -1,2 +1,10 @@
 [Desktop Entry]
-Name[en_US]=Fedora-Bugzilla.desktop
+Version=1.0
+Name=
+GenericName=
+Exec=xdg-open ''
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=
+Categories=Fedora;
