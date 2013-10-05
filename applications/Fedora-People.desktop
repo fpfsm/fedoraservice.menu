@@ -6,5 +6,5 @@ Exec=xdg-open 'http://fedorapeople.org/'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=system-users
 Categories=Fedora;

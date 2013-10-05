@@ -6,5 +6,5 @@ Exec=xdg-open 'http://admin.fedoraproject.org/pkgdb'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=package
 Categories=Fedora;

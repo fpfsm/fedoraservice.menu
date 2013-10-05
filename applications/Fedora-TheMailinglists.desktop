@@ -6,5 +6,5 @@ Exec=xdg-open 'http://lists.fedoraproject.org/'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=mail-unread-symbolic
 Categories=Fedora;

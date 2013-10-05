@@ -6,5 +6,5 @@ Exec=xdg-open 'http://koji.fedoraproject.org/koji'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=koji
 Categories=Fedora;
