@@ -6,5 +6,5 @@ Exec=xdg-open 'https://badges.fedoraproject.org/'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo
 Categories=Fedora;

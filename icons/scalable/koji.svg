@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\luya\Desktop"
+   sodipodi:docname="koji-icon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="TRUE"
+   inkscape:export-filename="C:\Documents and Settings\luya\Desktop\koji-icon-24.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5137">
+      <stop
+         id="stop5139"
+         offset="0"
+         style="stop-color:#d08b07;stop-opacity:0.95876288;" />
+      <stop
+         id="stop5141"
+         offset="1"
+         style="stop-color:#1a1100;stop-opacity:0.96078432;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3136">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3138" />
+      <stop
+         id="stop6214"
+         offset="0.3392857"
+         style="stop-color:#e2d0ad;stop-opacity:1;" />
+      <stop
+         style="stop-color:#d4b884;stop-opacity:1;"
+         offset="0.66964287"
+         id="stop6216" />
+      <stop
+         style="stop-color:#c6a15b;stop-opacity:1;"
+         offset="1"
+         id="stop3140" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter6185">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.063101176"
+         id="feGaussianBlur6187" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3136"
+       id="radialGradient5164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9998499,-1.732676e-2,7.0587302e-2,4.0732778,-1.7636918,-76.371901)"
+       cx="5.9544935"
+       cy="23.417223"
+       fx="5.9544935"
+       fy="23.417223"
+       r="5.7641592" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5137"
+       id="radialGradient5166"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.8538361,-0.4747902,0.4514709,4.6154405,-36.45819,-91.546779)"
+       cx="6.3827071"
+       cy="26.948166"
+       fx="6.3827071"
+       fy="26.948166"
+       r="5.7641592" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3136"
+       id="radialGradient5168"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4507645,-6.7353247e-2,-7.3389945e-2,3.119758,-1.5640191,-52.122521)"
+       cx="4.9186897"
+       cy="23.38542"
+       fx="4.9186897"
+       fy="23.38542"
+       r="5.7641592" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5137"
+       id="radialGradient5170"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7667689,-4.704119e-2,-1.5709375,4.6636111,30.232875,-94.84266)"
+       cx="7.366992"
+       cy="27.53047"
+       fx="7.366992"
+       fy="27.53047"
+       r="5.7641592" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3136"
+       id="radialGradient5172"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.027973,0.2080016,-0.5481542,3.0423086,13.399215,-52.268088)"
+       cx="4.4902039"
+       cy="23.333855"
+       fx="4.4902039"
+       fy="23.333855"
+       r="5.7641592" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5137"
+       id="radialGradient5174"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.2916001,-0.3522125,-1.4328565,3.5680304,18.360017,-61.1122)"
+       cx="8.2197638"
+       cy="27.229044"
+       fx="8.2197638"
+       fy="27.229044"
+       r="5.7641592" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.8541667"
+     inkscape:cx="24"
+     inkscape:cy="26.656372"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:window-width="747"
+     inkscape:window-height="573"
+     inkscape:window-x="112"
+     inkscape:window-y="29" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Koji</dc:title>
+        <dc:date>2006-05-08</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Luya Tshimbalanga</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Koji logo for Fedora Project</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6148">
+      <path
+         transform="matrix(1.1334887,0.1653778,-0.1653778,1.1334887,11.994435,-5.1977962)"
+         d="M 12.732095 24.827587 A 5.2201591 17.315649 0 1 1  2.2917771,24.827587 A 5.2201591 17.315649 0 1 1  12.732095 24.827587 z"
+         sodipodi:ry="17.315649"
+         sodipodi:rx="5.2201591"
+         sodipodi:cy="24.827587"
+         sodipodi:cx="7.5119362"
+         id="path2160"
+         style="fill:url(#radialGradient5164);fill-opacity:1;stroke:url(#radialGradient5166);stroke-width:2.61896744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6185)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:0.87894736;fill:url(#radialGradient5168);fill-opacity:1;stroke:url(#radialGradient5170);stroke-width:3.75526443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2162"
+         sodipodi:cx="7.5119362"
+         sodipodi:cy="24.827587"
+         sodipodi:rx="5.2201591"
+         sodipodi:ry="17.315649"
+         d="M 12.732095 24.827587 A 5.2201591 17.315649 0 1 1  2.2917771,24.827587 A 5.2201591 17.315649 0 1 1  12.732095 24.827587 z"
+         transform="matrix(0.8743859,0.2748444,-0.3062841,0.6336177,31.248989,-2.5624881)" />
+      <path
+         transform="matrix(0.7904482,0.3831033,-0.4852801,0.5998094,34.919166,14.25781)"
+         d="M 12.732095 24.827587 A 5.2201591 17.315649 0 1 1  2.2917771,24.827587 A 5.2201591 17.315649 0 1 1  12.732095 24.827587 z"
+         sodipodi:ry="17.315649"
+         sodipodi:rx="5.2201591"
+         sodipodi:cy="24.827587"
+         sodipodi:cx="7.5119362"
+         id="path2164"
+         style="opacity:0.87894736;fill:url(#radialGradient5172);fill-opacity:1;stroke:url(#radialGradient5174);stroke-width:3.69265894;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>
