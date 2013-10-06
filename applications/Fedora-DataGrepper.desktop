@@ -6,5 +6,5 @@ Exec=xdg-open 'https://apps.fedoraproject.org/datagrepper'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;

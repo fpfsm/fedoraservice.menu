@@ -6,5 +6,5 @@ Exec=xdg-open 'http://fedoraproject.org/easyfix'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;
