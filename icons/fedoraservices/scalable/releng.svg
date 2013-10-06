@@ -391,6 +391,45 @@
        x2="38.493341"
        y2="14.348401"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       id="filter6146"
+       inkscape:label="Inner Shadow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Adds a colorizable drop shadow inside"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur6148"
+         stdDeviation="4"
+         result="result8" />
+      <feOffset
+         id="feOffset6150"
+         dx="4"
+         dy="4"
+         result="result11" />
+      <feComposite
+         id="feComposite6152"
+         in2="result11"
+         result="result6"
+         in="SourceGraphic"
+         operator="in" />
+      <feFlood
+         id="feFlood6154"
+         result="result10"
+         in="result6"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)" />
+      <feBlend
+         id="feBlend6156"
+         in2="result10"
+         mode="normal"
+         in="result6"
+         result="result12" />
+      <feComposite
+         id="feComposite6158"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -502,7 +541,7 @@
          id="tspan4149"
          style="font-size:7.12340689000000005px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Meera;-inkscape-font-specification:Meera Bold Italic">RelEng Dashboard</tspan></text>
     <path
-       transform="translate(-12.214241,7.5017943)"
+       transform="translate(-13.589241,7.2517943)"
        d="m 24.999999,26.928572 a 0.85714287,0.9285714 0 1 1 -1.714285,0 0.85714287,0.9285714 0 1 1 1.714285,0 z"
        sodipodi:ry="0.9285714"
        sodipodi:rx="0.85714287"
@@ -512,7 +551,7 @@
        style="fill:#000000;stroke:#000000;stroke-width:0.34;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:type="arc" />
     <path
-       transform="translate(-6.1611638,7.678571)"
+       transform="translate(-5.0361638,7.428571)"
        d="m 24.999999,26.928572 a 0.85714287,0.9285714 0 1 1 -1.714285,0 0.85714287,0.9285714 0 1 1 1.714285,0 z"
        sodipodi:ry="0.9285714"
        sodipodi:rx="0.85714287"
@@ -554,7 +593,7 @@
        id="text4204"
        y="26.607655"
        x="34.16074"
-       style="font-size:1.36602032px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       style="font-size:1.36602032000000007px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
        xml:space="preserve"
        transform="matrix(0.99989567,0.01444446,-0.01444446,0.99989567,0,0)"><tspan
          y="26.607655"
@@ -607,9 +646,9 @@
        sodipodi:rx="0.85714287"
        sodipodi:ry="0.9285714"
        d="m 24.999999,26.928572 a 0.85714287,0.9285714 0 1 1 -1.714285,0 0.85714287,0.9285714 0 1 1 1.714285,0 z"
-       transform="translate(11.998067,7.3250176)" />
+       transform="translate(12.748067,7.3250176)" />
     <path
-       transform="translate(5.944989,7.5017943)"
+       transform="translate(4.444989,7.3767943)"
        d="m 24.999999,26.928572 a 0.85714287,0.9285714 0 1 1 -1.714285,0 0.85714287,0.9285714 0 1 1 1.714285,0 z"
        sodipodi:ry="0.9285714"
        sodipodi:rx="0.85714287"
@@ -712,7 +751,7 @@
     <text
        transform="matrix(0.99989567,0.01444446,-0.01444446,0.99989567,0,0)"
        xml:space="preserve"
-       style="font-size:1.36602032px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       style="font-size:1.36602032000000007px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
        x="26.144192"
        y="26.7169"
        id="text5725"
@@ -726,7 +765,7 @@
        id="text5729"
        y="26.854721"
        x="17.863926"
-       style="font-size:1.36602032px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       style="font-size:1.36602032000000007px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
        xml:space="preserve"
        transform="matrix(0.99989567,0.01444446,-0.01444446,0.99989567,0,0)"><tspan
          y="26.854721"
@@ -772,7 +811,7 @@
     <text
        transform="matrix(0.99989567,0.01444446,-0.01444446,0.99989567,0,0)"
        xml:space="preserve"
-       style="font-size:1.36602032px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+       style="font-size:1.36602032000000007px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
        x="9.224824"
        y="27.130341"
        id="text5785"
@@ -859,17 +898,6 @@
          x="30.609777"
          y="24.520021">HRS</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-size:3.39784694px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:Comfortaa"
-       x="21.049685"
-       y="35.17485"
-       id="text5817"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5819"
-         x="21.049685"
-         y="35.17485">ago</tspan></text>
-    <text
        sodipodi:linespacing="125%"
        id="text5821"
        y="24.520021"
@@ -899,9 +927,10 @@
          y="13.023098" />
     </g>
     <g
-       transform="matrix(0.042379,0,0,0.042379,-2.1286735,17.43176)"
+       transform="matrix(0.042379,0,0,0.042379,-2.2536735,15.30676)"
        id="layer1-1"
-       inkscape:label="Layer 1">
+       inkscape:label="Layer 1"
+       style="filter:url(#filter6146)">
       <g
          transform="translate(240.56757,349.11332)"
          inkscape:label="Layer 1"
