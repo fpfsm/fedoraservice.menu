@@ -6,5 +6,5 @@ Exec=xdg-open 'http://apps.fedoraproject.org/calendar'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;
