@@ -6,5 +6,5 @@ Exec=xdg-open 'http://apps.fedoraproject.org/tagger'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;
