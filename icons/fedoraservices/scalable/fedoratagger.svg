@@ -51,18 +51,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-8.1516656"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-3.3316623"
      inkscape:cy="24"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="665"
-     inkscape:window-height="602"
-     inkscape:window-x="182"
-     inkscape:window-y="75"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1024"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata2990">
     <rdf:RDF>
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +139,7 @@
        d="m 18.20532,-1.8449242 37.782128,0 0,13.2705822 -37.782128,0 z"
        id="rect3176" />
     <g
-       transform="matrix(0.06744925,0.06122395,-0.06378662,0.07027248,25.589168,-37.980107)"
+       transform="matrix(0.06744925,0.06122395,-0.06378662,0.07027248,25.765945,-38.156884)"
        id="layer1-7"
        inkscape:label="Layer 1">
       <g
