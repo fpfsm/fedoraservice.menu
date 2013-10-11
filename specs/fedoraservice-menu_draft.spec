@@ -15,7 +15,7 @@ Provides:       dribble-menus = 1.2
 Obsoletes:      dribble-menus <= 1.2
 
 %description
-Catagorized submenus for the GNOME/KDE Fedora Services menu, for easy to access Fedora Services from shortcut list. 
+Catagorized submenu for the GNOME/KDE Fedora Services menu, for easy to access Fedora Services from shortcut list. 
 These icons are just providing launcher icons, none of them running the apps locally, or install it for you. These are
 making to you easy access from one structured place, and opens website contents in your default browser.
 
