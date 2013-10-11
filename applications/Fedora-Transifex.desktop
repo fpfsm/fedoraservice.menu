@@ -6,5 +6,5 @@ Exec=xdg-open 'https://www.transifex.com'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;

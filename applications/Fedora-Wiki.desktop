@@ -6,5 +6,5 @@ Exec=xdg-open 'https://fedoraproject.org/wiki/Fedora_Project_Wiki'
 StartupNotify=true
 Terminal=false
 Type=Application
-Icon=
+Icon=fedora-logo-icon
 Categories=Fedora;
